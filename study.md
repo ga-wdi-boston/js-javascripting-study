@@ -31,11 +31,5 @@ learning process (not to mention your tenacity!).
 
 ## Response
 
-As noted previously, **no response is required** for this study. Complete the
-workshop at your own pace as a review tool for fundamental JavaScript.
-
-If you wish, you may open an issue. Include any questions you still have, or any
-topic you want to explore further in a 1on1 meeting.
-
-If you do this, be sure to schedule your 1on1 with a consultant and link to your
-response issue, which will serve as an agenda for the meeting.
+Here is the link to my repository for javascripting:
+https://github.com/akgoode/javascripting
