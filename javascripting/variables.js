@@ -1,2 +1,4 @@
-var example = 'some string'
+'use strict'
+
+const example = 'some string'
 console.log(example)

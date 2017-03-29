@@ -1,2 +1,4 @@
-var example = 'example string'
+'use strict'
+
+const example = 'example string'
 console.log(example.length)

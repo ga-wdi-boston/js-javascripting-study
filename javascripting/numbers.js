@@ -1,2 +1,4 @@
-var example = 123456789
+'use strict'
+
+const example = 123456789
 console.log(example)
