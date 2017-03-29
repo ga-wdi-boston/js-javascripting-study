@@ -5,7 +5,7 @@
 1.  Run `javascripting` from the command line interface and follow the
     instructions
 1.  Commit early and often as you work.
-1.  Add your work to the `lib` directory.
+1.  
 
 ## Working Instructions
 
