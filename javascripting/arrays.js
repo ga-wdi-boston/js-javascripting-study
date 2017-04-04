@@ -1,2 +1,2 @@
-const pizzaToppings = ['tomatoe-sauce', 'cheese', 'pepperoni']
+const pizzaToppings = ['tomato toucsauce', 'cheese', 'pepperoni']
 console.log(pizzaToppings)
